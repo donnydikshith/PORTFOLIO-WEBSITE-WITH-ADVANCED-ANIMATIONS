@@ -56,3 +56,5 @@ Smooth animations and transitions for an engaging user experience.
 This project serves as an excellent representation of professional web design and development skills.
 
 
+#0UTPUT
+![Image](https://github.com/user-attachments/assets/26ef4015-db71-49d2-ac27-8908e631e8b8)
